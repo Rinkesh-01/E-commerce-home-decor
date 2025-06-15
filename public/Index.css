@@ -2548,6 +2548,7 @@ a {
 		padding: 5px;
 		margin-top: 5px;
 	}
+
 	.main-product .main-product-inner .all-product .product .product-inner .label .content1 {
 		font-size: 8px;
 		width: 20px;
@@ -2576,36 +2577,44 @@ a {
 	flex-direction: column;
 	gap: 20px;
 }
+
 .contact-form {
 	padding: 30px;
 	width: 40%;
 }
+
 .store-info h2 {
 	color: #333;
 	margin-bottom: 15px;
 }
+
 .info-item {
 	display: flex;
 	align-items: center;
 	gap: 15px;
 	color: #666;
 }
+
 .info-item img {
 	width: 20px;
 	height: 20px;
 }
+
 .contact-form h2 {
 	color: #333;
 	margin-bottom: 20px;
 }
+
 .form-group {
 	margin-bottom: 15px;
 }
+
 .form-group label {
 	display: block;
 	margin-bottom: 5px;
 	color: #666;
 }
+
 .form-group select,
 .form-group input,
 .form-group textarea {
@@ -2614,10 +2623,12 @@ a {
 	border: 1px solid #ddd;
 	border-radius: 4px;
 }
+
 .form-group textarea {
 	resize: vertical;
 	min-height: 100px;
 }
+
 .choose-file {
 	background-color: #333;
 	color: white;
@@ -2626,6 +2637,7 @@ a {
 	border-radius: 4px;
 	cursor: pointer;
 }
+
 .send-btn {
 	background-color: #b8a075;
 	color: white;
@@ -2635,21 +2647,26 @@ a {
 	cursor: pointer;
 	transition: background-color 0.3s;
 }
+
 .send-btn:hover {
 	background-color: #9c8a62;
 }
+
 @media (max-width: 768px) {
 	.container {
 		flex-direction: column;
 	}
-	.store-info, .contact-form {
+
+	.store-info,
+	.contact-form {
 		width: 100%;
 	}
 }
+
 /*---------------------------------------------- start ad block media query  ----------------------------------------------*/
 
- /* Reset and base styles */
- * {
+/* Reset and base styles */
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -2800,7 +2817,7 @@ body {
 	.about-header h1 {
 		font-size: 2rem;
 	}
-	
+
 	.about-content {
 		flex-direction: column;
 	}

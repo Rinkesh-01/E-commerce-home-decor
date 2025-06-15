@@ -7,10 +7,6 @@ import Header from './Header';
 import Footer from './Footer';
 import About from "./About";
 
-
-
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>

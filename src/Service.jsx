@@ -8,11 +8,7 @@ const Service = () => {
             <div className="main-service-block">
                 <div className="service-container">
                     <div className="main-service-block-inner">
-                        <div className="title">
-                            <h2>
-                                <span>my</span> service
-                            </h2>
-                        </div>
+                       
                         <div className="all-block">
                             <div className="first-main">
                                 <a href="#">web Devlopment</a>

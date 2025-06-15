@@ -11,13 +11,13 @@ import Item from "./Item";
 const Home = () => {
     return (
         <>
-            <Outer />
+             <Outer />
             <Category />
             <Adblock />
             <Product />
             <Photo />
             <Collection />
-            <Brand />
+            <Brand /> 
             
         </>
     )
