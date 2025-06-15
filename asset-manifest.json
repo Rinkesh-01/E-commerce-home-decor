@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/E-commerce-home-decor/static/js/main.d2158f78.js",
+    "main.js": "/E-commerce-home-decor/static/js/main.bd9e7fb0.js",
     "index.html": "/E-commerce-home-decor/index.html",
-    "main.d2158f78.js.map": "/E-commerce-home-decor/static/js/main.d2158f78.js.map"
+    "main.bd9e7fb0.js.map": "/E-commerce-home-decor/static/js/main.bd9e7fb0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2158f78.js"
+    "static/js/main.bd9e7fb0.js"
   ]
 }
